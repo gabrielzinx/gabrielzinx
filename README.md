@@ -1,7 +1,5 @@
 ## Olá! Eu sou o sherlock5063
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username="sherlock5063")](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <a href="https://github.com/sherlock5063">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherlock5063&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
