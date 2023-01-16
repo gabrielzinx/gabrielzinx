@@ -1,5 +1,7 @@
 ## Olá! Eu sou o sherlock5063
 
+aparentemente há uma limitação no que diz respeito ao número de requisições que se pode fazer a API do(a) criador(a) do github-readme-status por isso o erro abaixo, no entanto pretendo resolver em um futuro proxímo 😃
+
 <div>
   <a href="https://github.com/sherlock5063">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherlock5063&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
